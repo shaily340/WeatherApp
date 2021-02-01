@@ -1,0 +1,29 @@
+body{
+    color: crimson;
+    background-color: dimgrey;
+    text-align: center;
+}
+
+h1{
+    font-size: 100;
+}
+
+input{
+    width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+
+button {
+    background-color: #4CAF50;
+    font-size: 24px;
+    border-radius: 8px;
+    padding: 14px 40px;
+}
+
+p{
+    color: black; 
+    text-align: center;
+    font-size: 50;
+}
